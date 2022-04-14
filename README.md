@@ -5,6 +5,7 @@
 3. Run the add_data.py to create schema and add data 
 4. Then run script.py and enter text in the input field, Then click classify to classify the comment as toxic or Non toxic.
 
+I have used the dataset available here: https://www.kaggle.com/datasets/akashsuper2000/toxic-comment-classification 
 
 
 https://user-images.githubusercontent.com/75658681/163169920-958433fe-d4a8-4e4f-b0fa-9f509948ebce.mp4
